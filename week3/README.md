@@ -74,4 +74,4 @@ The SQL script includes:
 week3/
 ├── README.md
 ├── week3_performance_analysis.sql
-└── screenshots/
+└── OUTPUT_screenshot/
