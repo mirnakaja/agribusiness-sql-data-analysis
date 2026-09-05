@@ -74,10 +74,9 @@ agribusiness-sql-data-analysis/
 │
 ├── README.md
 │
-├── maize_production_analysis.sql
-│
 ├── data/
-│   └── README.md
+│   └── data.md
+    ├── maize_production_analysis.sql
 │
 └── screenshots/
     ├── raw_data.png
