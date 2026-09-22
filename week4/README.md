@@ -98,7 +98,7 @@ A bar chart is used to compare the average maize production across countries.
 
 ## Visualization Planning
 
-Different visualization formats were selected based on the type of business question being addressed.
+Different visualization formats were selected based on the type of business question being addressed:
 
 - **Bar charts** were used for country comparisons because they make differences between categories easy to identify.
 - **Line charts** were used for yearly production because they clearly show trends and changes over time.
