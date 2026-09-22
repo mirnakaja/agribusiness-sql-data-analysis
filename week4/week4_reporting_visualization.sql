@@ -11,6 +11,7 @@ SELECT *
 FROM crop_production
 LIMIT 10;
 
+
 SELECT
     COUNT(*) AS total_records,
     SUM(production_tonnes) AS total_production_tonnes,
@@ -68,6 +69,7 @@ WHERE LOWER(c.country_name) = 'india'
 ORDER BY cp.production_tonnes DESC
 LIMIT 1;
 
+
 SELECT
     cp.year,
     cp.production_tonnes
@@ -77,6 +79,7 @@ JOIN countries c
 WHERE LOWER(c.country_name) = 'india'
 ORDER BY cp.production_tonnes ASC
 LIMIT 1;
+
 
 SELECT
     c.country_name,
